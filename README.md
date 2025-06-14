@@ -1,5 +1,7 @@
 # Prompt_Storage
 建置中
+>**參考：**  
+>CXPhoenix：[https://github.com/CXPhoenix/prompt-engineer](https://github.com/CXPhoenix/prompt-engineer)
 ## 網頁
 ### 資訊安全教學素材包網頁生成提示詞
   * 第一版：[CyberSec-learning-resource_v01.md](https://github.com/Jimmymao330/Prompt_Storage/blob/main/CyberSec-learning-resource_v01.md)
