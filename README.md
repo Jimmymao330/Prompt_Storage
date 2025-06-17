@@ -10,4 +10,5 @@
 
 ## 自動化軟體生成
 ### 自動網頁alt生成系統生成提示詞
-  * 第一版：[automated-alt-generator_v01.md](https://github.com/Jimmymao330/Prompt_Storage/blob/main/automated-alt-generator_v01.md)
+  * 第一版：[automated-alt-generator_v01.md](https://github.com/Jimmymao330/Prompt_Storage/blob/main/automated-alt-generator_v01.md)（Python）
+  * 第二版：[automated-alt-generator_v02.md](https://github.com/Jimmymao330/Prompt_Storage/blob/main/automated-alt-generator_v02.md)（Web App）［失敗］
